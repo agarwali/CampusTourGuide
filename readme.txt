@@ -19,7 +19,7 @@ Stack.py - a stack object implemented using Python List
 test.py - contains test suites (Not fully implemented yet).
 
 Acknowledgements:
-Graph and GraphWorld class from Allen B. Downey available free from http://greenteapress.com/complexity.
+Graph and GraphWorld modules from Allen B. Downey were obtained for free from http://greenteapress.com/complexity.
 Code for switching frame in GraphApp.py was obtained from http://stackoverflow.com/questions/7546050/switch-between-two-frames-in-tkinter
 Code for printing selected items in tkinter Scrollbar in a text frame in Pages.py was obtained from http://stackoverflow.com/questions/13828531/problems-in-python-getting-multiple-selections-from-tkinter-listbox
 Stack Class from David M. Reed and John Zelle was obtained from https://www.fbeedle.com/content/data-structures-and-algorithms-using-python-and-c
