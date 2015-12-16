@@ -1,3 +1,5 @@
+Purpose: The sole purpose of this project is to apply the TSP problem to find the best Hamiltotnian path for Berea College campus tour guides or visitors to generate tours for tourists with an option for selecting the buildings they want to visit at Berea College. We used the branch and bound algorithm to generate optimal solutions.
+
 Instructions:
 To open the application run main.py in a Python 2.7 environment.
 Libraries used: Tkinter and Swampy
