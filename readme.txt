@@ -1,5 +1,6 @@
 Instructions:
 To open the application run main.py in a Python 2.7 environment.
+Libraries used: Tkinter and Swampy
 
 Developement:
 main-development.py has been left for future development, that does not deal with GUI.
